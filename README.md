@@ -88,32 +88,34 @@
       font-size: 1.2em;
     }
     .sobremi-container {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
+  display: grid;
+  grid-template-columns: 1fr;
   gap: 20px;
+  align-items: center;
 }
 
 .sobremi-img img {
-  width: 200px;
-  height: 200px;
-  object-fit: cover;
+  width: 100%;
+  maz-width: 220px;
+  height: auto;
   border-radius: 10px;
+  object-fit: cover;
+  display: block;
+  margin: 0 auto;
 }
 
 @media (min-width: 768px) {
   .sobremi-container {
-    flex-direction: row;
+    grid-template-columns: 220px 1fr;
     align-items: flex-start;
   }
 
   .sobremi-img img {
-    width: 220px;
-    height: 220px;
+    margin: 0;
   }
 
   .sobremi-img {
-    margin-right: 20px;
+    margin-right: 0;
   }
 
   .sobremi-text {
