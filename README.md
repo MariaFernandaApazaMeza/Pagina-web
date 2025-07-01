@@ -87,7 +87,39 @@
       font-weight: bold;
       font-size: 1.2em;
     }
-    
+    .sobremi-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+}
+
+.sobremi-img img {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 10px;
+}
+
+@media (min-width: 768px) {
+  .sobremi-container {
+    flex-direction: row;
+    align-items: flex-start;
+  }
+
+  .sobremi-img img {
+    width: 220px;
+    height: 220px;
+  }
+
+  .sobremi-img {
+    margin-right: 20px;
+  }
+
+  .sobremi-text {
+    flex: 1;
+  }
+}
   </style>
 </head>
 <body>
@@ -108,10 +140,10 @@
     <div class="section-title">Sobre mí</div>
     <div class="divider"></div>
     <div class="sobremi-container">
-    <div class="sobremi-img">
+      <div class="sobremi-img">
       <img src="https://raw.githubusercontent.com/MariaFernandaApazaMeza/Pagina-web/main/Foto%20de%20Maria%20Fernanda%20Apaza%20Meza%20con%20el%20Doctor%20Alonso%20Quintanilla%20P%C3%A9rez-Wicht.jpg" alt="Foto de María Fernanda Apaza Meza" />
     </div>
-    <div class="section-text">
+    <div class="section-text sobremi-text">
       Hola soy Mafer, una estudiante de la carrera de Administración de Negocios en la 
       <a href="https://ucsp.edu.pe/" target="_blank" style="color:#000; font-weight:bold; text-decoration:underline;">
       Universidad Católica San Pablo
