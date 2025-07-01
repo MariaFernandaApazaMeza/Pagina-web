@@ -106,11 +106,13 @@
 
 @media (min-width: 768px) {
   .sobremi-container {
-    grid-template-columns: 220px 1fr;
+    grid-template-columns: 165px 1fr;
     align-items: flex-start;
   }
 
   .sobremi-img img {
+    max-width: 165px;
+    height: auto;
     margin: 0;
   }
 
