@@ -124,20 +124,29 @@
     flex: 1;
   }
 }
+  .container-limitado {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 1rem;
+}
   </style>
 </head>
 <body>
   <header>
-    <h1>María Fernanda Apaza Meza</h1>
-    <h2>Estudiante de Administración de Negocios en la UCSP</h2>
+    <div class="container-limitado">
+      <h1>María Fernanda Apaza Meza</h1>
+      <h2>Estudiante de Administración de Negocios en la UCSP</h2>
+    </div>
   </header>
   <nav>
-    <a href="#sobremi">Sobre mí</a>
-    <a href="#cursos-universitarios">Cursos Universitarios</a>
-    <a href="#cursos-adicionales">Voluntariados y Conferencias</a>
-    <a href="#idiomas">Idiomas</a>
-    <a href="#amigos">Amigos y Compañeros</a>
-    <a href="#contacto">Contacto</a>
+    <div class="container-limitado">
+      <a href="#sobremi">Sobre mí</a>
+      <a href="#cursos-universitarios">Cursos Universitarios</a>
+      <a href="#cursos-adicionales">Voluntariados y Conferencias</a>
+      <a href="#idiomas">Idiomas</a>
+      <a href="#amigos">Amigos y Compañeros</a>
+      <a href="#contacto">Contacto</a>
+    </div>
   </nav>
   
   <section id="sobremi">
