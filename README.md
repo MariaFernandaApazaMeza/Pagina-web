@@ -127,7 +127,7 @@
   .container-limitado {
   max-width: 800px;
   margin: 0 auto;
-  padding: 1rem;
+  padding: 1.5rem 1rem;
 }
   </style>
 </head>
@@ -135,6 +135,7 @@
   <header>
     <div class="container-limitado">
       <h1>María Fernanda Apaza Meza</h1>
+      <hr>
       <h2>Estudiante de Administración de Negocios en la UCSP</h2>
     </div>
   </header>
