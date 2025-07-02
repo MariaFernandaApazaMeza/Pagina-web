@@ -137,6 +137,11 @@
       <h1>María Fernanda Apaza Meza</h1>
       <hr>
       <h2>Estudiante de Administración de Negocios en la UCSP</h2>
+      .container-limitado {
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 1rem;
+      }
     </div>
   </header>
   <nav>
