@@ -137,11 +137,14 @@
       <h1>María Fernanda Apaza Meza</h1>
       <hr>
       <h2>Estudiante de Administración de Negocios en la UCSP</h2>
-      .container-limitado {
-        max-width: 800px;
-        margin: 0 auto;
-        padding: 1rem;
+      header {
+        background-color: #FFB51F;
+        color: white;
+        text-align: center;
+        border-radius: 8px;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
       }
+      
     </div>
   </header>
   <nav>
@@ -152,6 +155,13 @@
       <a href="#idiomas">Idiomas</a>
       <a href="#amigos">Amigos y Compañeros</a>
       <a href="#contacto">Contacto</a>
+      nav {
+        background-color: #FFB51F;
+        text-align: center;
+        margin-top: 1rem;
+        border-radius: 8px;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+      }
     </div>
   </nav>
   
