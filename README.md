@@ -203,6 +203,8 @@
       PACÍFICO SEGUROS
       </a>. Esta experiencia reforzó mi compromiso con la inclusión financiera y el desarrollo comunitario.
       </p>
+      <img src="https://www.instagram.com/p/DAPLHGZxljm/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==" alt="Ruta del Progreso en Yanahuara" style="width:100%; border-radius: 10px; margin-top: 10px;" />
+      </div>
       </div>
       <div class="card"><div class="card-title">PMI</div>
       <p class="section-text">
