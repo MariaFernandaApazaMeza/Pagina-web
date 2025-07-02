@@ -148,7 +148,7 @@
     <div class="container-limitado">
       <a href="#sobremi">Sobre mí</a>
       <a href="#cursos-universitarios">Cursos Universitarios</a>
-      <a href="#cursos-adicionales">Voluntariados y Conferencias</a>
+      <a href="#voluntariados-y-conferencias">Voluntariados y Conferencias</a>
       <a href="#idiomas">Idiomas</a>
       <a href="#amigos">Amigos y Compañeros</a>
       <a href="#contacto">Contacto</a>
