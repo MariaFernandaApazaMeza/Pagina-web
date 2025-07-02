@@ -124,45 +124,20 @@
     flex: 1;
   }
 }
-  .container-limitado {
-  max-width: 800px;
-  margin: 0 auto;
-  padding: 1.5rem 1rem;
-}
   </style>
 </head>
 <body>
   <header>
-    <div class="container-limitado">
-      <h1>María Fernanda Apaza Meza</h1>
-      <hr>
-      <h2>Estudiante de Administración de Negocios en la UCSP</h2>
-      header {
-        background-color: #FFB51F;
-        color: white;
-        text-align: center;
-        border-radius: 8px;
-        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-      }
-      
-    </div>
+    <h1>María Fernanda Apaza Meza</h1>
+    <h2>Estudiante de Administración de Negocios en la UCSP</h2>
   </header>
   <nav>
-    <div class="container-limitado">
-      <a href="#sobremi">Sobre mí</a>
-      <a href="#cursos-universitarios">Cursos Universitarios</a>
-      <a href="#voluntariados-y-conferencias">Voluntariados y Conferencias</a>
-      <a href="#idiomas">Idiomas</a>
-      <a href="#amigos">Amigos y Compañeros</a>
-      <a href="#contacto">Contacto</a>
-      nav {
-        background-color: #FFB51F;
-        text-align: center;
-        margin-top: 1rem;
-        border-radius: 8px;
-        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-      }
-    </div>
+    <a href="#sobremi">Sobre mí</a>
+    <a href="#cursos-universitarios">Cursos Universitarios</a>
+    <a href="#cursos-adicionales">Voluntariados y Conferencias</a>
+    <a href="#idiomas">Idiomas</a>
+    <a href="#amigos">Amigos y Compañeros</a>
+    <a href="#contacto">Contacto</a>
   </nav>
   
   <section id="sobremi">
@@ -173,7 +148,7 @@
       <img src="https://raw.githubusercontent.com/MariaFernandaApazaMeza/Pagina-web/main/Foto%20de%20Maria%20Fernanda%20Apaza%20Meza%20con%20el%20Doctor%20Alonso%20Quintanilla%20P%C3%A9rez-Wicht.jpg" alt="Foto de María Fernanda Apaza Meza" />
     </div>
     <div class="section-text sobremi-text">
-      Hola soy Mafer, una estudiante de la carrera de Administración de Negocios en la 
+      Hola soy Mafer, estudiante de la carrera de Administración de Negocios en la 
       <a href="https://ucsp.edu.pe/" target="_blank" style="color:#000; font-weight:bold; text-decoration:underline;">
       Universidad Católica San Pablo
       </a>. Me interesa comprender cómo las organizaciones pueden crecer de forma sostenible a través de estrategias bien estructuradas y una gestión eficiente. Durante mi formación, he fortalecido competencias clave como el trabajo colaborativo, la comunicación efectiva y la toma de decisiones. Tengo un especial interés en áreas como el marketing, el análisis financiero y el liderazgo, ya que considero que son fundamentales para generar impacto en el entorno empresarial actual.
