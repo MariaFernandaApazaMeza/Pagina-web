@@ -203,7 +203,7 @@
       PACÍFICO SEGUROS
       </a>. Esta experiencia reforzó mi compromiso con la inclusión financiera y el desarrollo comunitario.
       </p>
-      <img src="https://github.com/MariaFernandaApazaMeza/Pagina-web/blob/main/Maria%20Fernanda%20Apaza%20Meza%20en%20la%20Ruta%20del%20Progreso.jpg" style="width: 100%; margin-top: 10px; border-radius: 8px;"> 
+      <img src="https://github.com/MariaFernandaApazaMeza/Pagina-web/blob/main/Maria%20Fernanda%20Apaza%20Meza%20en%20la%20Ruta%20del%20Progreso.jpg"style="width: 100%; margin-top: 10px; border-radius: 8px;"> 
       </div>
       <div class="card"><div class="card-title">PMI</div>
       <p class="section-text">
