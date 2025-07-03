@@ -217,6 +217,7 @@
       </a>
        ) referente en transformación digital y educación ejecutiva. Este evento fue clave para ampliar mi visión sobre el desarrollo empresarial.
       </p>
+      <img src="https://raw.githubusercontent.com/MariaFernandaApazaMeza/Pagina-web/refs/heads/main/Mar%C3%ADa%20Fernanda%20Apaza%20Meza%20con%20Eddy%20Morris.jpg" style="width: 100%; margin-top: 10px; border-radius: 8px;">
       </div>
     </div>
   </section>
